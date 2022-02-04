@@ -5,5 +5,6 @@ public class Sum{
         int a= 5;
         int b = 10;
         System.out.println("Sum of numbers:"+a+b);
+	System.out.println("Succesfull operation");
     }
 }
